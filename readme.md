@@ -72,7 +72,7 @@ For more detailed documentation, visit [OpenAI Documentation](https://platform.o
 
 ## License
 
-This repository is under the NN license.
+This repository is under the GNU General Public License v3.0 license.
 
 ## Contact Information
 
